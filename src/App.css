@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    background-color: #90EE90;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.App img{
+    max-width: 18%;
+    padding-right: 65px;
+}
+.App button{
+    height: 30px;
+    width: 80px;
+}
+.App footer{
+    background-color: #409640;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+.App header{
+    background-color: #409640;
+    display: flex;
+    height: 30vh;
+    padding: 2vh;
+    font-size: 80px;
+    font-family: 'Roboto Slab', serif;
+    justify-content: center;
+    color: white;
+}
